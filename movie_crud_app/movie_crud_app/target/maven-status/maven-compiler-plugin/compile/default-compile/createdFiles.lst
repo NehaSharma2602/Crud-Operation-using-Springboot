@@ -1,0 +1,6 @@
+edu\qs\service\MovieServiceImpl.class
+edu\qs\model\entity\Movie.class
+edu\qs\MovieCrudAppApplication.class
+edu\qs\service\MovieService.class
+edu\qs\model\repository\MovieRepository.class
+edu\qs\controller\MovieController.class
